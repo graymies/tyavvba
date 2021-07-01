@@ -1,0 +1,6 @@
+(window.webpackJsonp_ember_auto_import_=window.webpackJsonp_ember_auto_import_||[]).push([[12],{106:function(e,n,s){"use strict"
+s.r(n),s.d(n,"SplashScreenWeb",(function(){return r}))
+var o=s(2)
+class r extends o.WebPlugin{async show(e){}async hide(e){}}}}])
+
+//# sourceMappingURL=chunk.12.14c211c001495a1acd65-4b4e14984e6b226532798884b6e8a31e.map
